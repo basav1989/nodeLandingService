@@ -1,0 +1,20 @@
+{
+  "name": "landingservice",
+  "version": "1.0.0",
+  "description": "process natural language queries",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "basavaraj.r",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0"
+  }
+}
